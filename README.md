@@ -1,7 +1,5 @@
 # The-Loyalty-Architect
 A strategic initiative to optimize customer retention and maximize long-term profitability through analytics
-# The Loyalty Architect
-## Customer Retention Strategy Optimization Through Data Analytics
 
 ### 📊 Project Overview
 Data-driven framework optimizing customer retention strategies using Python and Tableau. Analyzed 10,000 customers to reduce churn by 6.6% and protect $1.7M in customer lifetime value.
