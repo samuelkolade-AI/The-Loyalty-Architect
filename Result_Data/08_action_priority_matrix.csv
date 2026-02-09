@@ -1,0 +1,18 @@
+Action_Priority,Recommended_Strategy,Customer_Count,Total_LTV_at_Risk,Avg_Churn_Risk
+High Priority,Discounts,1339,10205428.32,0.46
+High Priority,Loyalty Programs,75,679260.19,0.2
+High Priority,Re-engagement Campaign,393,1998650.65,0.7
+High Priority,Standard Communication,1754,8440153.32,0.72
+High Priority,VIP Treatment,289,2170150.48,0.67
+Immediate Action,Discounts,39,376337.98,0.56
+Immediate Action,Re-engagement Campaign,23,141063.01,0.94
+Immediate Action,Standard Communication,105,642698.23,0.95
+Immediate Action,VIP Treatment,1057,9062934.94,0.83
+Maintain,Discounts,190,149547.12,0.36
+Maintain,Loyalty Programs,186,375128.94,0.12
+Maintain,Re-engagement Campaign,194,350214.41,0.14
+Maintain,Standard Communication,632,1208959.33,0.13
+Monitor,Discounts,1485,4707266.64,0.44
+Monitor,Loyalty Programs,258,1529151.46,0.15
+Monitor,Re-engagement Campaign,374,1667299.65,0.34
+Monitor,Standard Communication,1607,6615061.0,0.39

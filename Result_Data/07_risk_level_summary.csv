@@ -1,0 +1,6 @@
+,Customer_ID,Lifetime_Value,Lifetime_Value,Churn_Probability
+,count,mean,sum,mean
+Risk_Level,,,,
+High Risk,4039,5011.03,20239537.21,0.8
+Low Risk,2908,5034.8,14641188.4,0.15
+Medium Risk,3053,5056.86,15438580.06,0.44
