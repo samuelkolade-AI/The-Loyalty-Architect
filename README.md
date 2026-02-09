@@ -37,4 +37,4 @@ pip install -r requirements.txt
 ```
 
 ### 📊 Interactive Dashboard
-[View Live Tableau Dashboard]([https://public.tableau.com/views/THELOYALTYARCHITECTRetentionStrategyDashboard/LoyaltyArchitect-RetentionStrategyDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
+[View Live Tableau Dashboard](https://public.tableau.com/views/THELOYALTYARCHITECTRetentionStrategyDashboard/LoyaltyArchitect-RetentionStrategyDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
