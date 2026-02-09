@@ -3,6 +3,10 @@ A strategic initiative to optimize customer retention and maximize long-term pro
 
 ### 📊 Project Overview
 Data-driven framework optimizing customer retention strategies using Python and Tableau. Analyzed 10,000 customers to reduce churn by 6.6% and protect $1.7M in customer lifetime value.
+Source: Retail transaction database (e-commerce/brick-and-mortar hybrid)
+Size: 500,000+ transaction records spanning 24 months
+Customers: 10,000 unique customers
+Time Period: January 2023 - December 2024
 
 ### 🎯 Key Results
 - **Churn Reduction:** 50.2% → 46.8% (6.6% improvement)
